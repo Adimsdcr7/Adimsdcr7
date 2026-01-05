@@ -13,7 +13,7 @@ Data Analyst with an engineering background, focused on turning raw data into cl
 
 📬 How to reach me?
 - 📧 Email: adichaudhari7@gmail.com
-- 💼 LinkedIn: aditya-pandurang-chaudhari
+- 💼 LinkedIn: [aditya-pandurang-chaudhari](http://linkedin.com/in/aditya-pandurang-chaudhari)
 
 ⭐ Open to **Data Analyst / Business Analyst** roles
 
