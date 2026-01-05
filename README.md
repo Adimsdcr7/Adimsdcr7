@@ -7,10 +7,10 @@ Data Analyst with an engineering background, focused on turning raw data into cl
 • SQL → Python → Power BI analytics projects  
 • Building dashboards that support real decisions  
 
-🛠️ Tech Stack  
-• Languages & Querying: - Python, SQL  
-• Data & Analytics:- MySQL, Pandas, NumPy, Advanced Excel 
-• Visualization & BI:- Power BI, Tableau, Matplotlib, Seaborn 
+🛠️ Tech Stack 
+- Languages & Querying: Python, SQL
+- Data & Analytics: MySQL, Pandas, NumPy, Advanced Excel
+- Visualization & BI: Power BI, Tableau, Matplotlib, Seaborn
 
 📬 How to reach me?
 📧 adichaudhari7@gmail.com  
