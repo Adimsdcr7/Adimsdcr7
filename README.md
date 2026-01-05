@@ -10,6 +10,7 @@ Data Analyst with an engineering background, focused on turning raw data into cl
 🛠️ Tech Stack  
 • Languages & Querying: - Python, SQL  
 • Data & Analytics:- MySQL, Pandas, NumPy, Advanced Excel 
+
 • Visualization & BI:- Power BI, Tableau, Matplotlib, Seaborn 
 
 📬 How to reach me?
